@@ -19,7 +19,6 @@ class Solution {
         maxHeight(root);
         return diameter;
     }
-    
     public int maxHeight(TreeNode root){
         if(root == null){
             return 0;
