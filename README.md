@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0459-repeated-substring-pattern) |
 | [0556-next-greater-element-iii](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0556-next-greater-element-iii) |
+| [0606-construct-string-from-binary-tree](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0606-construct-string-from-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0606-construct-string-from-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0606-construct-string-from-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
