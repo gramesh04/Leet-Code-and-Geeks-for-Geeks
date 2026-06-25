@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0826-most-profit-assigning-work) |
+| [0905-sort-array-by-parity](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0556-next-greater-element-iii) |
 | [0658-find-k-closest-elements](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0826-most-profit-assigning-work) |
+| [0905-sort-array-by-parity](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0905-sort-array-by-parity) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Linked List
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0826-most-profit-assigning-work) |
+| [0905-sort-array-by-parity](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0905-sort-array-by-parity) |
 | [1552-magnetic-force-between-two-balls](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1552-magnetic-force-between-two-balls) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Merge Sort
