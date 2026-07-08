@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0219-contains-duplicate-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0206-reverse-linked-list) |
@@ -293,12 +295,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0707-design-linked-list) |
 | [1206-design-skiplist](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1206-design-skiplist) |
 | [1472-design-browser-history](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
