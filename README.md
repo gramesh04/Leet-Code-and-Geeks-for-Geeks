@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0560-subarray-sum-equals-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0707-design-linked-list) |
 | [1206-design-skiplist](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1206-design-skiplist) |
 | [1472-design-browser-history](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1472-design-browser-history) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0707-design-linked-list) |
 | [1206-design-skiplist](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1206-design-skiplist) |
 | [1472-design-browser-history](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1472-design-browser-history) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
