@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0826-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0997-find-the-town-judge) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0826-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1095-find-in-mountain-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/1552-magnetic-force-between-two-balls) |
