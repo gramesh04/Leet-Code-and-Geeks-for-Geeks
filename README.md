@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0119-pascals-triangle-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0658-find-k-closest-elements](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/GANDEEDRAMESH/Leet-Code-and-Geeks-for-Geeks/tree/master/0704-binary-search) |
